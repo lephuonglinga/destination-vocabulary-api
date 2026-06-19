@@ -1,0 +1,733 @@
+
+# Phrasal verbs
+add up;tính tổng số
+blow up;nổ tung
+break down;hỏng
+break in(to);đột nhập
+bring up;nuôi nấng
+build up;tăng
+call back;gọi lại
+call off;hủy
+calm down;bình tĩnh
+carry on;tiếp tục
+catch up (with);bắt kịp
+cheer up;vui lên
+clear up;dọn dẹp
+come across;bắt gặp
+come back (from);trở về (từ)
+come on;mau lên
+come out;được xuất bản
+cross out;gạch bỏ
+cut down (on);cắt giảm
+cut off;ngắt kết nối
+cut off;cắt bỏ
+do up;kéo (khóa) lên, cài
+eat out;ăn hàng
+fall down;vấp ngã
+fall out (with);cãi cọ, nghỉ chơi
+fill in;điền vào đơn
+fill up;làm đầy
+find out;phát hiện ra
+get away with;thoát tội
+get in(to);vào trong xe
+get off;xuống xe
+get on (with);có quan hệ tốt (với)
+get on (to);lên xe
+get out (of);rời khỏi
+get over;vượt qua
+get up;dậy, xuống giường
+give away;cho tặng
+give back;trả lại
+give up;từ bỏ
+go away;biến đi, rời khỏ
+go back (to);trở lại
+go off;hỏng
+go on;tiếp tục
+go on;xảy ra
+go out;tắt (lửa)
+go out with;hẹn hò
+grow up;trưởng thành
+hang on;đợi
+hang up;treo quần áo lên
+hang up;cúp điện thoại
+have on;mặc trên người
+hurry up;khẩn trương lên
+join in;tham gia
+keep out;không cho phép vào
+leave out;bỏ đi, bỏ sót
+let down;gay thất vọng
+lie down;nằm xuống (giường)
+log off;đăng xuất
+log on(to);đăng nhập
+look after;chăm nom
+look up;tra cứu
+make up;bịa ra (lời giả thích)
+move in;chuyển đến
+pay back;trả tiền
+pick up;đón, nhặt (lên)
+point out;chỉ ra
+print out;in ra
+pull off;lôi ra
+put away;cất đi
+put back;để lại chỗ cũ
+put down;đặt xuống
+put off;hoãn
+put on;tăng (cân)
+put on;mặc quần áo
+put out;dập tắt
+put up;treo lên
+read out;đọc to
+rip up;xé
+rub out;chùi
+run away (from);trốn thoát
+run out (of);hết
+save up (for);tiết kiệm
+send off;(trong bóng đá) cho ra khỏi sân
+set off;khởi hành
+set up;thành lập
+share out;phân chia
+shut up;im miệng
+sit down;ngồi xuống
+sort out;giải quyết
+speak up;nói to lên
+split up;chia tay
+stand up;đứng lên
+stay up;ngủ muộn
+take away;mang đi
+take back;trả lại
+take down;lấy xuống
+take off;cất cánh
+take off;cởi
+take over;tiếp quản
+take up;bắt đầu
+
+
+# Unit 42: Problems and solutions
+accident (n);sự tình cờ, rủi ro
+assume (v);cho rằng
+cause (v);gây ra
+cause (n);nguyên nhân
+claim (v);khẳng định
+complain (v);than phiền
+convince (v);thuyết phục
+criticise (v);chỉ trích
+deny (v);phủ nhận
+discussion (n);cuộc thảo luận
+doubt (v);nghi ngờ
+doubt (n);sự hoài nghi
+encourage (v);khuyến khích
+get rid of (v phr);từ bỏ
+gossip (v);tán gẫu
+gossip (n);chuyện phiếm
+ideal (adj);lý tưởng
+insult (v);xúc phạm
+insult (n);sự sỉ nhục
+investigate (v);điều tra
+negative (adj);tiêu cực
+positive (adj);tích cực
+praise (v);khen
+praise (n);sự ca ngợi
+pretend (v);giả vờ
+purpose (n);mục đích
+refuse (v);từ chối
+result (v);đưa đén kết quả
+result (n);kết quả
+rumour (n);tin đồn
+sensible (adj);hợp lý, khôn ngoan
+serious (adj);nghiêm trọng
+spare (adj);rảnh, dư
+theory (n);lý thuyết
+thought (n);ý tưởng, sự suy nghĩ
+warn (v);cảnh báo
+hang up;treo quần áo lên
+pick up;đón, nhặt (lên)
+put back;để lại chỗ cũ
+run out (of);hết
+share out;phân chia
+sort out;giải quyết
+
+
+# Unit 39: Laughing and crying
+amusing (adj);vui vẻ, giải trí
+annoy (v);làm phiền
+attitude (n);thái độ
+bad-tempered (adj);nóng tính
+behave (v);cư xử
+bully (v);ngược đãi
+bully (n);kẻ bắt nạt
+calm (adj);bình tĩnh
+celebrate (v);tổ chức
+character (n);tính cách
+depressed (adj);buồn rầu
+embarrassing (adj);xấu hổ
+emotion (n);cảm xúc
+enthusiastic (adj);nhiệt tình
+feeling (n);cảm giác
+glad (adj);vui
+hurt (v);bị đau
+hurt (adj);tổn thương, đau đớn
+miserable (adj);khổ sở
+naughty (adj);hư đốn
+noisy (adj);ồn ào
+polite (adj);lịch sự
+react (v);phản ứng lại
+regret (n);sự hối tiếc
+ridiculous (adj);nực cười, lố bịch
+romantic (adj);lãng mạn
+rude (adj);thô lỗ
+sense of humour (n phr);khiếu hài hước
+shy (adj);rụt rè
+stress (n);căng thẳng
+tell a joke (v phr);kể chuyện hài
+upset (v);làm khó chịu
+upset (adj);buồn
+calm down;bình tĩnh
+cheer up;vui lên
+come on;mau lên
+go on;tiếp tục
+hang on;đợi
+run away (from);trốn thoát
+shut up;im miệng
+speak up;nói to lên
+
+
+# Unit 36: Nature and the universe
+amazing (adj);tuyệt vời
+climate (n);khí hậu
+countryside (n);miền quê
+environment (n);môi trường
+extinct (adj);tuyệt chủng
+forecast (v);dự báo
+forecast (n);sự dự báo
+freezing (adj);lạnh buốt
+global (adj);toàn cầu
+heatwave (n);đợt nắng nóng
+insect (n);côn trùng
+lightning (n);tia chớp
+litter (v);xả rác
+litter (n);rác
+local (adj);địa phương
+locate (v);có vị trí ở, nằm ở
+mammal (n);động vật có vú
+mild (adj);ấm áp
+name (v);kể tên, đặt tên
+name (n);tên gọi
+origin (n);nguồn gốc
+planet (n);hành tinh
+preserve (v);bảo tồn
+recycle (v);tái chế
+reptile (n);loài bò sát
+rescue (v);giải cứu
+rescue (n);sự giải cứu
+satellite (n);vệ tinh
+shower (n);cơn mưa rào
+solar system;hệ mặt trời
+species (n);loài
+thunder (n);sấm sét
+wild (adj);hoang dã
+wildlife (n);động vật hoang dã
+blow up;nổ tung
+build up;tăng
+clear up;dọn dẹp
+go out;tắt (lửa)
+keep out;không cho phép vào
+put down;đặt xuống
+put out;dập tắt
+put up;treo lên
+
+
+# Unit 33: Creating and building
+ancient (adj);cổ xưa
+checked (adj);kẻ ca rô
+cotton (n);bông
+create (v);tạo ra
+design (v);thiết kế
+design (n);bản thiết kế
+fix (v);sửa chữa
+fold (v);gấp
+gallery (n);triển lãm
+improvement (n);sự cải tiến
+loose (adj);rộng
+maintain (v);bảo dưỡng
+match (v);phù hợp
+material (n);chất liệu
+notice (v);để ý
+notice (n);thông báo
+pattern (n);họa tiết
+pile (n);chồng, đống
+practical (adj);thực tế, thực dụng
+rough (adj);thô ráp
+shape (n);hình dạng
+silk (n);lụa
+sleeve (n);tay áo
+smooth (adj);mượt, mịn màng
+stratch (v);kéo dãn
+striped (adj);sọc
+style (n);phong cách
+suit (v);phù hợp
+suit (n);bộ com lê
+suitable (adj);phù hợp
+tear (v);xé rách, bị rách
+tear (n);chỗ bị rách
+tight (adj);chật
+tool (n);dụng cụ
+cut off;cắt bỏ
+do up;kéo (khóa) lên, cài
+fill up;làm đầy
+have on;mặc trên người
+leave out;bỏ đi, bỏ sót
+put on;mặc quần áo
+take off;cởi ra
+try on;thử
+
+
+# Unit 30: Body and lifestyle
+affect (v);ảnh hưởng
+balance (v);cân bằng
+balance (n);sự cân bằng
+benefit (v);được lợi, giúp ích cho
+benefit (n);lợi ích
+breathe (v);hít thở
+chew (v);nhai
+chop (v);chặt
+contain (v);chứa đựng
+cough (v);ho
+cough (n);cơn ho
+cure (v);chữa bệnh
+cure (n);giải pháp chữa bệnh
+exercise (v);tập thể dục
+exercise (n);hoạt động tập thể dục
+flu (n);bệnh cúm
+have an operation (v phr);phẫu thuật
+healthy (adj);khỏe mạnh
+ignore (v);tảng lờ
+infection (n);bệnh truyền nhiễm
+ingredient (n);nguyên liệu
+injury (n);chấn thương
+limit (v);hạn chế
+limit (n);sự giới hạn
+meal (n);bữa ăn
+pill (n);viên thuốc
+recover (v);hồi phục
+salty (adj);có vị mặn
+slice (v);cắt thành lát
+slice (n);lát cắt
+sour (adj);chua
+spicy (adj);cay
+stir (v);khuấy
+suffer (v);chịu đựng
+taste (v);nếm
+taste (n);mùi vị
+treatment (n);sự điều trị
+vitamin (n);vi-ta-min, chất dinh dưỡng
+cut down (on);cắt giảm
+fall down;vấp ngã
+get over;vượt qua
+go off;hỏng
+lie down;nằm xuống (giường)
+put on;tăng (cân)
+sit down;ngồi xuống
+stand up;đứng lên
+
+
+# Unit 27: Working and earning
+ambition (n);tham vọng
+application (n);ứng tuyển
+bank account (n phr);tài khoản ngân hàng
+boss (n);sếp
+career (n);sự nghiệp
+colleague (n);đồng nghiệp
+company (n);công ty
+contract (n);hợp đồng
+department (n);bộ phận, phòng, ban
+deserve (v);xứng đáng
+earn (v);kiếm tiền
+fame (n);sự nổi tiếng
+goal (n);bàn thắng
+impress (v);gây ấn tượng
+income (n);thu nhập
+industry (n);ngành
+interview (v);phỏng vấn
+interview (n);phỏng vấn
+leader (n);lãnh đạo
+manager (n);quản lý
+pension (n);lương hưu
+poverty (n);sự nghèo đói
+pressure (n);áp lực
+previous (adj);trước
+profession (n);nghề nghiệp
+retire (v);về hưu
+salary (n);lương
+staff (n);nhân viên
+strike (n);cuộc bãi công
+tax (v);đánh thuế
+tax (n);tiền thuế
+wealthy (adj;giàu có
+call off;hủy
+give back;trả lại
+go on;xảy ra
+put off;hoãn
+set up;thành lập
+stay up;ngủ muộn
+take away;mang đi
+take over;tiếp quản
+
+
+# Unit 24: People and daily life
+admit (v);thừa nhận
+arrest (v);bắt giữ
+charity (n);tổ chức từ thiện
+commit (v);phạm phải
+community (n);cộng đồng
+court (n);tòa án
+criminal (n);tội phạm
+criminal (adj);có tính phạm tội
+culture (n);văn hóa
+familiar (adj);quen thuộc
+government (n);chính phủ
+habit (n);thói quen
+identity card (n phr);căn cước công dân, thẻ căn cước
+illegal (adj);trái luật
+politics (n);chính trị
+population (n);dân số
+prison (n);nhà tù
+protest (v);phản đối
+protest (n);sự phản đối
+resident (n);cư dân
+responsible (adj);chịu trách nhiệm
+rob (v);cướp
+routine (n);thói thường
+routine (adj);thường lệ
+schedule (n);lịch trình
+situation (n);tính huống
+social (adj);mang tính xã hội
+typical (adj);đặc trưng
+vote (v);bầu, bỏ phiếu
+vote (n);phiếu bầu
+youth club (n phr);câu lạc bộ thanh niên
+break in(to);đột nhập
+catch up (with);bắt kịp
+get away with;thoát tội
+get up;dậy, xuống giường
+move in;chuyển đến
+put away;cất đi
+wake up;thức giấc
+wash up;rửa sạch
+
+
+# Unit 21: Sending and receiving
+accent (n);giọng
+announcement (n);sự thông báo
+broadcast (v);phát sóng
+broadcast (n);chương trình phát sóng
+channel (n);kênh
+clear (adj);rõ ràng
+click (v);nhấp chuột
+contact (v);sự liên lạc
+contact (n);sự liên lạc
+file (n);tệp
+formal (adj);trang trọng
+image (n);hình ảnh
+informal (adj);ít trang trọng, thân mật
+internet (n);mạng internet
+interrupt (v);ngắt quãng, ngắt lời
+link (v);liên kết, kết nối
+link (n);sự liên kết
+media (n);phương tiện truyền thông
+mobile phone (n phr);điện thoại di động
+online (adj);trực tuyến
+online (adv);trực tuyến
+pause (v);tạm ngừng
+pause (n);khoảng dừng
+persuade (v);thuyết phục
+pronounce (v);phát âm
+publish (v);xuất bản
+report (v);báo cáo
+report (n);bản báo cáo
+request (v);yêu cầu
+request (n);sự yêu cầu
+ring (v);gọi điện
+signal (n);tín hiệu
+swear (v);chửi thề
+type (n);thể loại
+viewer (n);khán giả
+website (n);trang mạng
+whisper (v);thì thầm
+whisper (n);lời thì thầm
+call back;gọi lại
+come out;được xuất bản
+cut off;ngắt kết nối
+fill in;điền vào đơn
+hang up;cúp điện thoại
+log off;đăng xuất
+log on(to);đăng nhập
+print out;in ra
+
+
+# Unit 18: Inventions and discoveries
+artificial (adj);nhân tạo
+automatic (adj);tự động
+complicated (adj);phức tạp
+decrease (v0;giảm
+decrease (n);sự giảm sút
+digital (adj);kĩ thuật số
+discover (v);phát hiện
+effect (n);sự ảnh hưởng
+equipment (n);thiết bị
+estimate (v);ước tính
+exact (adj);chính xác
+experiment (v);làm thí nghiệm
+experiment (n);cuộc thí nghiệm
+gadget (n);thiết bị
+hardware (n);phần cứng
+invent (v);phát minh
+involve (v);bao gồm
+laboratory (n);phòng thí nghiệm
+lack (v);thiếu
+lack (n);sự thiếu hụt
+laptop (n);máy tính xách tay
+maximum (adj);tối đa
+minimum (adj);tối thiểu
+operate (v);vận hành
+plastic (n);đồ nhựa
+plastic (adj);làm bằng nhựa
+program (v);lập trình
+program (n);chương trình
+research (n);sự nghiên cứu
+run (v);chạy, bật
+screen (n);màn hình
+software (n);phần mềm
+sudden (adj);đột ngột
+technology (n);công nghệ
+unique (adj);duy nhất
+break down;hỏng
+come across;bắt gặp
+find out;phát hiện ra
+make up;bịa ra (lời giải thích)
+pull off;lôi ra
+throw away;vứt đi
+turn off;tắt
+turn on;bật
+
+
+# Unit 15: Buying and selling
+advertisement (n);tin quảng cáo
+afford (v);có đủ tiền
+bargain (n);món hời
+brand (n);thương hiệu
+catalogue (n);danh mục
+change (n);tiền lẻ
+coin (n);tiền xu
+cost (v);có giá tiền
+cost (n);giá tiền
+customer (n);khách hàng
+debt (n);khoản nợ
+demand (v);yêu cầu
+export (v);xuất khẩu
+fee (n);chi phí
+fortune (n);gia tài
+import (v);nhập khẩu
+invest (v);đầu tư
+obtain (v);đạt được
+owe (v);nợ
+own (v);sở hữu
+profit (n);lợi nhuận
+property (n);tài sản
+purchase (v);mua
+purchase (n);sự mua
+receipt (n);hóa đơn
+require (v);yêu cầu
+sale (n);đợt giảm giá
+save (v);gửi tiền tiết kiệm
+select (v);lựa chọn
+supply (v);cung cấp
+supply (n);nguồn cung cấp
+variety (n);sự đa dạng, đủ loại
+waste (v);phung phí
+waste (n);sự phung phí
+add up;tính tổng số
+come back (from);trở về (từ)
+give away;cho tặng
+hurry up;khẩn trương lên
+pay back;trả tiền
+save up (for);tiết kiệm
+take down;lấy xuống
+
+
+# Unit 12: Friends and relations
+apologise (v);xin lỗi
+boyfriend (n);bạn trai, người yêu (nam)
+close (adj);thân thiết
+confident )adj);tự tin
+cool (adj);tuyệt vời, đáng ngưỡng mộ
+couple (n);cặp đôi
+decorate (v);trang trí
+defend (v);bảo vệ, phòng hộ
+divorced (adj);đã ly hôn
+flat (n);căn hộ chung cư
+generous (adj);hào phóng
+girlfriend (n);bạn gái, người yêu (nữ)
+grateful (adj);biết ơn
+guest (n);khách
+independent (adj);độc lập
+introduce (v);giới thiệu
+loving (adj);đầy yêu thương
+loyal (adj);trung thành
+mood (n);tâm trạng
+neighbourhood (n);vùng lân cận
+ordinary (adj);bình thường
+patient (adj);kiên nhẫn
+private (adj);riêng tư
+recognise (v);nhận ra
+relation (n);người thân
+rent (v);thuê nhà
+rent (n);tiền thuê nhà
+respect (v);tôn trọng
+respect (n);sự tôn trọng
+single( (adj);độc thân
+stranger (n);người lạ
+trust (v);tin tưởng
+trust (n);sự tin tưởng
+bring up;nuôi nấng
+fall out (with);cãi cọ, nghỉ chơi
+get on (with);có quan hệ tốt (với)
+go out with;hẹn hò
+grow up;trưởng thành
+look after;chăm nom
+split up;chia tay
+
+
+# Unit 9 - Coming and going
+abroad (adv);ở nước ngoài
+accomodation;chỗ ở
+book;đặt chỗ (trước)
+break (n);giờ nghỉ giải lao
+cancel (v);hủy
+catch (v);bắt được
+coach (n);xe khách
+convenient (adj);thuận tiện
+crash (v);đâm sầm vào
+crash (n);sự đâm sầm vào
+crowded (adj);đông đúc
+cruise (n);cuộc đi chơi đường biển
+delay (v);trì hoãn
+delay (n);sự trì hoãn
+destination (n);điểm đến
+ferry (n);phà
+flight (n);chuyến bay
+foreign (adj);(thuộc) nước ngoài
+harbour (n);cảng
+journey (n);chuyến hành trình
+luggage (n);hành lý
+nearby (adj);ở gần
+nearby (adv);ở vị trí gần
+pack (v);đóng gói, xếp lại
+passport (n);hộ chiếu
+platform (n);thềm ga, sân ga
+public transport (n phr);hệ thống giao thông công cộng
+reach (v);tới nơi
+resort (n);khu nghỉ dưỡng
+souvenir (n);quà lưu niệm
+traffic (n);giao thông
+trip (n);chuyến đi
+vehicle (n);phương tiện giao thông
+get in(to);vào trong xe
+get off;xuống xe
+get out (of);rời khỏi
+go away;biến đi, rời khỏi
+go back (to);trở lại
+set off;khởi hành
+take off;cất cánh
+
+
+# Unit 6: Learning and doing
+achieve (v);đạt được
+brain (n);não bộ
+clever (adj);thông minh
+concentrate (v);tập trung
+consider (v);cân nhắc
+course (n);khóa học
+degree (n);tấm bằng
+experience (v);trải nghiệm, trải qua
+experience (n);kinh nghiệm
+expert (n);chuyên gia
+expert (adj);có chuyên môn, thành thạo
+fail (v);thất bại
+guess (v);đoán
+guess (n);sự phỏng đoán
+hesitate (v);ngập ngừng
+instruction (n);bản/lời hướng dẫn
+make progress (v phr);tiến bộ
+make sure (v phr);bảo đảm
+mark (v);chấm điểm
+mark (n);điểm số
+mental (adj);về tinh thần, trí tuệ
+pass (v);thi đỗ
+qualification (n);bằng cấp
+remind (v);nhắc nhở
+report (n);báo cáo
+revise (v);ôn luyện
+search (v);tìm kiếm
+search (n);sự nỗ lực tìm kiếm
+skill (n);kĩ năng
+smart (adj);thông minh
+subject (n);môn học
+take an exam (v phr);đi thi
+talented (adj);giàu tài năng
+term (n);học kì
+wonder (v);phân vân
+cross out;gạch bỏ
+look up;tra cứu
+point out;chỉ ra
+read out;đọc to
+rip up;xé
+turn over;lật
+write down;viết ra
+
+
+# Unit 3: Fun and games
+beat (v);đánh bại
+board game (n phr);trò chơi cờ bàn
+captain (n);thuyền trưởng, thủ lĩnh
+challenge (v);thách thức
+challenge (n);sự thách thức
+champion (n);nhà vô địch
+cheat (v);gian lận
+classical music (n phr);nhạc cổ điển
+club (n);câu lạc bộ
+coach (n);huấn luyện viên
+competition (n);cuộc thi đấu
+concert (n);buổi hòa nhạc
+defeat (v);đánh bại
+defeat (n);sự thất bại
+entertaining (adj);có tính giải trí
+folk music (n phr);nhạc dân gian
+group (n);nhóm nhạc
+gym (n);phòng/câu lạc bộ thể hình
+have fun (v phr);vui chơi
+interest (v);khiến ai thích thú
+interest (n);hoạt động ưa thích
+member (n);thành viên
+opponent (n);đối thủ
+organise (v);tổ chức
+pleasure (n);sự thư thái
+referee (n);trọng tài
+rhythm (n);nhịp điệu
+risk (v);mạo hiểm
+risk (n);sự rủi ro
+score (v);ghi bàn
+score (n);điểm số
+support (v);hỗ trợ
+support (n);sự hỗ trợ
+team (n);đội, nhóm
+train (v);luyện tập
+video game (n phr);trò chơi điện tử
+carry on;tiếp tục
+eat out;ăn hàng
+give up;từ bỏ
+join in;tham gia
+send off;(trong bóng đá) cho ra khỏi sân
+take up;bắt đầu
+turn down;vặn nhỏ âm lượng
+turn up;bật to âm lượng
+
