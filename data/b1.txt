@@ -102,7 +102,7 @@ take over;tiếp quản
 take up;bắt đầu
 
 
-# Unit 42: Problems and solutions
+# Problems and solutions
 accident (n);sự tình cờ, rủi ro
 assume (v);cho rằng
 cause (v);gây ra
@@ -147,7 +147,7 @@ share out;phân chia
 sort out;giải quyết
 
 
-# Unit 39: Laughing and crying
+# Laughing and crying
 amusing (adj);vui vẻ, giải trí
 annoy (v);làm phiền
 attitude (n);thái độ
@@ -191,7 +191,7 @@ shut up;im miệng
 speak up;nói to lên
 
 
-# Unit 36: Nature and the universe
+# Nature and the universe
 amazing (adj);tuyệt vời
 climate (n);khí hậu
 countryside (n);miền quê
@@ -236,7 +236,7 @@ put out;dập tắt
 put up;treo lên
 
 
-# Unit 33: Creating and building
+# Creating and building
 ancient (adj);cổ xưa
 checked (adj);kẻ ca rô
 cotton (n);bông
@@ -281,7 +281,7 @@ take off;cởi ra
 try on;thử
 
 
-# Unit 30: Body and lifestyle
+# Body and lifestyle
 affect (v);ảnh hưởng
 balance (v);cân bằng
 balance (n);sự cân bằng
@@ -330,7 +330,7 @@ sit down;ngồi xuống
 stand up;đứng lên
 
 
-# Unit 27: Working and earning
+# Working and earning
 ambition (n);tham vọng
 application (n);ứng tuyển
 bank account (n phr);tài khoản ngân hàng
@@ -373,7 +373,7 @@ take away;mang đi
 take over;tiếp quản
 
 
-# Unit 24: People and daily life
+# People and daily life
 admit (v);thừa nhận
 arrest (v);bắt giữ
 charity (n);tổ chức từ thiện
@@ -415,7 +415,7 @@ wake up;thức giấc
 wash up;rửa sạch
 
 
-# Unit 21: Sending and receiving
+# Sending and receiving
 accent (n);giọng
 announcement (n);sự thông báo
 broadcast (v);phát sóng
@@ -464,7 +464,7 @@ log on(to);đăng nhập
 print out;in ra
 
 
-# Unit 18: Inventions and discoveries
+# Inventions and discoveries
 artificial (adj);nhân tạo
 automatic (adj);tự động
 complicated (adj);phức tạp
@@ -510,7 +510,7 @@ turn off;tắt
 turn on;bật
 
 
-# Unit 15: Buying and selling
+# Buying and selling
 advertisement (n);tin quảng cáo
 afford (v);có đủ tiền
 bargain (n);món hời
@@ -554,7 +554,7 @@ save up (for);tiết kiệm
 take down;lấy xuống
 
 
-# Unit 12: Friends and relations
+# Friends and relations
 apologise (v);xin lỗi
 boyfriend (n);bạn trai, người yêu (nam)
 close (adj);thân thiết
@@ -584,7 +584,7 @@ rent (v);thuê nhà
 rent (n);tiền thuê nhà
 respect (v);tôn trọng
 respect (n);sự tôn trọng
-single( (adj);độc thân
+single (adj);độc thân
 stranger (n);người lạ
 trust (v);tin tưởng
 trust (n);sự tin tưởng
@@ -597,7 +597,7 @@ look after;chăm nom
 split up;chia tay
 
 
-# Unit 9 - Coming and going
+# Coming and going
 abroad (adv);ở nước ngoài
 accomodation;chỗ ở
 book;đặt chỗ (trước)
@@ -640,7 +640,7 @@ set off;khởi hành
 take off;cất cánh
 
 
-# Unit 6: Learning and doing
+# Learning and doing
 achieve (v);đạt được
 brain (n);não bộ
 clever (adj);thông minh
@@ -685,7 +685,7 @@ turn over;lật
 write down;viết ra
 
 
-# Unit 3: Fun and games
+# Fun and games
 beat (v);đánh bại
 board game (n phr);trò chơi cờ bàn
 captain (n);thuyền trưởng, thủ lĩnh

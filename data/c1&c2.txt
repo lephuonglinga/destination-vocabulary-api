@@ -205,7 +205,7 @@ lie ahead;trước mắt, ở tương lai
 liven up;làm đẹp hơn/ làm thú vị hơn, cải thiện
 
 
-# Unit 26: Preference and leisure activities
+# Preference and leisure activities
 addiction (n);sự nghiện
 adore (v);rất yêu thích
 anticipation (n);sự chờ mong
@@ -302,7 +302,7 @@ set your heart on;vô cùng mong muốn điều gì đó xảy ra, đặt cả t
 variety is the spice of life;sự đa dạng là gia vị cuộc sống
 
 
-# Unit 24: Relationships and people
+# Relationships and people
 adjacent (adj);ở sát cạnh
 attach (v);gắn liền, đính
 bond (v);gắn chặt
@@ -399,7 +399,7 @@ see eye to eye (with sb);đồng tình với ai
 your flesh and blood;họ hàng thân thuộc
 
 
-# Unit 22: Quality and social issues
+# Quality and social issues
 aggravate (v);làm trầm trọng hơn
 better (v);vượt quá/ cải thiện
 blemish (n);vết nhơ
@@ -496,7 +496,7 @@ steal the show;chiếm sóng, đoạt nổi bật
 the edge over;lợi thế hơn so với ai
 
 
-# Unit 20: Power and social issues
+# Power and social issues
 aggression (n);sự hung hăng
 authority (n);quyền hạn
 benign (adj);lành, nhân từ
@@ -594,7 +594,7 @@ throw the book at sb;trừng phạt ai đó thật nghiêm khắc
 under sb's thumb;không thoát khỏi bàn tay của ai
 
 
-# Unit 18: Reactions and health
+# Reactions and health
 acknowledge (v);công nhận, thừa nhận/ bày tỏ lòng biết ơn/ tỏ ra đã nhận ra
 agonise (v);chịu lo lắng, khổ sở
 apathy (n);sự lãnh đạm
@@ -697,7 +697,7 @@ let off steam;xả hơi
 let sleeping dogs lie;chuyện đã qua hãy để cho qua đi
 
 
-# Unit 16: Materials and the built environment
+# Materials and the built environment
 block (v);chặn lại
 block (n);tảng, khối
 brittle (adj);giòn
@@ -800,7 +800,7 @@ set up;xây dựng, dựng lên, thiết lập
 spread out;tuyên bố, nói lên ý kiến, tỏa ra
 
 
-# Unit 14: Quantity and money
+# Quantity and money
 abundant (adj);dồi dào
 ample (adj);phong phú
 area (n);khu vực
@@ -901,7 +901,7 @@ six of one (and) half a dozen of the other;kẻ tám lạng, người nửa cân
 tidy sum/ amount;khoản lớn
 
 
-# Unit 12: Chance and nature
+# Chance and nature
 approximate (v);ước tính
 approximate (ad);xấp xỉ
 ascribe (v);gán cho
@@ -999,7 +999,7 @@ the luck of the draw;hên xui
 touch wood;phủi phui, trộm vía
 
 
-# Unit 10: Communication and the media
+# Communication and the media
 allege (v);cho rằng, cáo buộc
 ambiguous (adj);mơ hồ
 assert (v);khẳng định
@@ -1102,7 +1102,7 @@ speak volumes;biểu lộ suy nghĩ mà không cần nói ra
 tell tales;mách lẻo, đặt điều
 
 
-# Unit 8: Movement and transport
+# Movement and transport
 accelerate (v);tăng tốc
 approach (v);tiến lại gần/ tiếp cận, gặp
 approach (n);cách tiếp cận/ sự đến gần ngày/ thời điểm
@@ -1205,7 +1205,7 @@ follow your nose;cứ làm theo những gì bạn cảm thấy đúng
 in the middle of nowhere;ở chốn đồng không môn quạnh
 
 
-# Unit 6: Time and work
+# Time and work
 abrupt (adj);đột ngột
 anachronism (n);vật không đúng niên đại, việc lỗi thời
 annual (adj);hàng năm, thường niên
@@ -1306,7 +1306,7 @@ on the spur of the moment;chợt nổi hứng làm gì
 the other day;một hôm, gần đây
 
 
-# Unit 4: Change and technology
+# Change and technology
 adapt (v);thích nghi
 adjust (v);điều chỉnh, thay đổi
 alternate (v);diễn ra luân phiên
@@ -1409,7 +1409,7 @@ break the mould;phá cách, khác khuôn mẫu thông thường
 change your tune;đổi ý
 
 
-# Unit 2: Thinking and learning
+# Thinking and learning
 assess (v);đánh giá/ định giá
 assume (v);mặc định/ cho rằng
 baffle (v);gây trở ngại

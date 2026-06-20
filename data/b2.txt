@@ -102,7 +102,7 @@ grow on;bắt đàu thích
 grow out of;phát triển từ
 
 
-# Unit 28: Work and business
+# Work and business
 employer (n);chủ, người sử dụng lao động
 employee (n);người lao động (được thuê)
 staff (n);nhân sự
@@ -148,7 +148,7 @@ take over;chiếm quyền kiểm soát
 turn down;từ chối
 
 
-# Unit 26: Fashion and design
+# Fashion and design
 put on (phr v);mặc vào
 wear (v);mặc
 costume (n);trang phục
@@ -191,7 +191,7 @@ try on;thử (quần áo)
 wear out;trở nên cũ/hỏng
 
 
-# Unit 24: Entertainment
+# Entertainment
 enjoy (v);thích thú
 entertain (v);giải trí
 play (v);chơi
@@ -237,7 +237,7 @@ take after;giống
 take off;phất lên
 
 
-# Unit 22: Money and shopping
+# Money and shopping
 economic (adj);(thuộc) kinh tế
 economical (adj);(có tính) tiết kiệm, rẻ
 receipt (n);biên lai (giao dịch)
@@ -278,7 +278,7 @@ put by;để dành, tiết kiệm (tiền)
 save up (for);tiết kiệm
 
 
-# Unit 20: Weather and the environment
+#  Weather and the environment
 urban (adj);(thuộc) thành thị
 suburban (adj);(thuộc) ngoại ô
 rural (adj);(thuộc) nông thôn
@@ -333,7 +333,7 @@ stand for;đại diện, có nghĩa là/ chịu đựung, tha thứ
 throw away;vứt bỏ
 
 
-# Unit 18: Education and learning
+# Education and learning
 take (v);thực hiện
 pass (v);đỗ, đạt
 read (v);đọc
@@ -382,7 +382,7 @@ set out;mô tả, giải thích, làm rõ
 think over;cân nhắc
 
 
-# Unit 16: Food and drink
+# Food and drink
 chop (v);chặt, băm
 slice (v);thái lát
 grate (v);mài, nạo
@@ -439,7 +439,7 @@ turn out;hóa ra là
 turn up;xuất hiện (đột ngột)
 
 
-# Unit 14: Health and fitness
+# Health and fitness
 prescription (n);đơn thuốc
 recipe (n);công thức nấu ăn
 operation (n);sự mổ xẻ, phẫu thuật
@@ -487,7 +487,7 @@ put on;tăng (cân)
 wear off;mất tác dụng
 
 
-# Unit 12: The law and crime
+# The law and crime
 proof (n);chứng cớ, bằng chứng
 evidence (n);chứng cớ, bằng chứng
 suspect (v);nghi ngờ, hoài nghi
@@ -538,7 +538,7 @@ take down;ghi lại
 take in;lừa dối
 
 
-# Unit 10: People and society
+# People and society
 relationship (n);mối quan hệ
 connection (n);sự liên hệ, mối liên hệ
 blame (n);trách nhiệm về một tình huống tệ
@@ -587,7 +587,7 @@ stand up for;ủng hộ
 take aback;gây ngạc nhiên
 
 
-# Unit 8: The media
+# The media
 deny (v);phủ nhận
 refuse (v);từ chối
 agree (v);đồng ý
@@ -629,7 +629,7 @@ stand out;nổi bật
 turn over;lật trang (sách)
 
 
-# Unit 6: Science and technology
+# Science and technology
 artificial (adj);nhân tạo
 false (adj);giả
 natural (adj);tự nhiên
@@ -678,7 +678,7 @@ turn off;tắt, ngừng
 work out;tìm ra giải pháp
 
 
-# Unit 4: Hobbies, sport and games
+# Hobbies, sport and games
 pitch (n);sân thể thao
 track (n);đường đua
 court (n);sân vợt
@@ -728,7 +728,7 @@ take to;bắt đầu (một thói quen)
 take up;bắt đầu làm/chơi (một sở thích, môn thể thao)/ chiếm dụng
 
 
-# Unit 2: Travel and transport
+# Travel and transport
 voyage (n);chuyến đi (bằng tàu thủy)
 journey (n);hành trình
 trip (n);chuyến đi
