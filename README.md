@@ -228,12 +228,60 @@ Nếu port 8000 bị chiếm, đổi sang `8001` hoặc tắt process cũ.
 
 ## Deploy (Render)
 
-File `render.yaml` đã cấu hình sẵn. Trên Render dashboard, thêm environment variable:
+`.env` **không** đưa lên GitHub (đúng chuẩn bảo mật). Key chỉ cấu hình **một lần** trên Render dashboard — mỗi lần deploy từ GitHub, Render vẫn giữ env vars đó.
 
-| Biến | Bắt buộc | Mô tả |
-|------|----------|--------|
-| `GEMINI_API_KEY` | Có (cho Coach & Exam AI) | Key từ Google AI Studio |
-| `GEMINI_MODEL` | Không | Mặc định `gemini-2.5-flash-lite` |
+### Quy trình đề xuất
+
+```
+GitHub (code, không có secret)
+    ↓ auto deploy
+Render (GEMINI_API_KEY trong Environment)
+    ↓ HTTPS public URL
+Flutter (chỉ lưu base URL, không cần API key)
+```
+
+### Bước 1 — Push code lên GitHub
+
+Giữ `.env` trong `.gitignore`. Chỉ commit `.env.example`.
+
+### Bước 2 — Kết nối Render với repo
+
+Render tự build từ `render.yaml`. Vocabulary API chạy ngay sau deploy.
+
+### Bước 3 — Thêm secret trên Render (một lần)
+
+Render dashboard → service **vocabulary-api** → **Environment**:
+
+| Key | Value | Bắt buộc |
+|-----|-------|----------|
+| `GEMINI_API_KEY` | Key từ [Google AI Studio](https://aistudio.google.com/apikey) | Có, nếu dùng Coach/Exam |
+| `GEMINI_MODEL` | `gemini-2.5-flash-lite` | Không (đã có default trong `render.yaml`) |
+
+Save → Render redeploy. Key **không** nằm trong Git, **không** đưa vào Flutter.
+
+### Bước 4 — Flutter trỏ base URL
+
+```dart
+baseUrl: 'https://destination-vocabulary-api.onrender.com'
+```
+
+Flutter không cần biết `GEMINI_API_KEY` — key chỉ dùng server-side.
+
+### Không có `GEMINI_API_KEY` trên Render?
+
+| Tính năng | Hoạt động? |
+|-----------|------------|
+| Home — xem level/unit/term | Có |
+| Coach / Exam AI | Không (503) |
+
+Vẫn có thể dùng link Render cho Flutter phần vocabulary; thêm key trên Render khi cần AI.
+
+### Lưu ý
+
+- **Local:** dùng file `.env` (copy từ `.env.example`)
+- **Production:** dùng Environment trên Render
+- **Không** commit `.env`, **không** hardcode key trong Flutter
+- Render free tier có cold start (~30–60s request đầu sau khi idle)
 
 ## Lỗi thường gặp
 
