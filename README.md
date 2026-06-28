@@ -10,6 +10,7 @@ Backend API cho ứng dụng Flutter **Worduno** — cung cấp dữ liệu từ
 |------|--------|
 | **Vocabulary** | Đọc level, unit, term từ file tĩnh (B1, B2, C1&C2) |
 | **AI Coach** | Feedback từ vựng và đánh giá câu học sinh viết (tiếng Việt) |
+| **Exam AI** | Sinh câu Cloze và chấm Sentence Writing (score 0–10) |
 
 Không có đăng nhập, không đồng bộ dữ liệu học tập — progress lưu cục bộ trên Flutter client.
 
@@ -100,6 +101,73 @@ Feedback câu học sinh viết trong Coach session. **Không chấm điểm.**
 
 - `suggestion`: 1–2 câu gợi ý viết lại (tiếng Anh)
 
+### Exam AI (POST)
+
+Cần `GEMINI_API_KEY`. Tách riêng với Coach.
+
+#### `POST /api/exam/cloze`
+
+Sinh câu điền từ (Cloze AI). Server xáo thứ tự 4 đáp án trước khi trả về.
+
+**Request:**
+
+```json
+{
+  "word": "blow up",
+  "definition": "nổ tung",
+  "level": "b1"
+}
+```
+
+- `level`: `b1`, `b2`, hoặc `c1&c2`
+- Server tự chọn 3 distractor ngẫu nhiên từ toàn bộ từ trong level
+
+**Response:**
+
+```json
+{
+  "sentence": "The old factory _____ last night.",
+  "options": ["add up", "blow up", "give up", "break down"],
+  "correct_answer": "blow up"
+}
+```
+
+- Câu và 4 đáp án: tiếng Anh  
+- `options` đã được server shuffle  
+- `correct_answer` và `options` không có nhãn loại từ `(n)`, `(v)`, ...
+
+#### `POST /api/exam/evaluate-sentence`
+
+Chấm bài Sentence Writing trong Exam. Có điểm số.
+
+**Request:**
+
+```json
+{
+  "word": "blow up",
+  "definition": "nổ tung",
+  "sentence": "The bomb blew up the bridge."
+}
+```
+
+**Response:**
+
+```json
+{
+  "score": 8,
+  "grammar": "Nhận xét ngữ pháp...",
+  "vocabulary": "Nhận xét cách dùng từ...",
+  "naturalness": "Câu có tự nhiên không...",
+  "suggestion": [
+    "They plan to blow up the bridge."
+  ]
+}
+```
+
+- `score`: số nguyên **0–10**  
+- Feedback tiếng Việt  
+- `suggestion`: 1–2 câu gợi ý (tiếng Anh)
+
 ## Cấu trúc project (MVC)
 
 ```
@@ -164,7 +232,7 @@ File `render.yaml` đã cấu hình sẵn. Trên Render dashboard, thêm environ
 
 | Biến | Bắt buộc | Mô tả |
 |------|----------|--------|
-| `GEMINI_API_KEY` | Có (cho Coach) | Key từ Google AI Studio |
+| `GEMINI_API_KEY` | Có (cho Coach & Exam AI) | Key từ Google AI Studio |
 | `GEMINI_MODEL` | Không | Mặc định `gemini-2.5-flash-lite` |
 
 ## Lỗi thường gặp
@@ -184,4 +252,4 @@ File `render.yaml` đã cấu hình sẵn. Trên Render dashboard, thêm environ
 
 ## Client
 
-Flutter app **Worduno** gọi API này cho màn Home (vocabulary) và Coach (explain / evaluate). Exam AI endpoints sẽ bổ sung ở phase sau.
+Flutter app **Worduno** gọi API này cho màn Home (vocabulary), Coach (explain / evaluate) và Exam (cloze / evaluate-sentence).
